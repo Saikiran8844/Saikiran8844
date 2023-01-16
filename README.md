@@ -1,6 +1,19 @@
 # 💫 About Me:
 🔭  Full Stack Enthusiastic<br>👯 I’m looking to collaborate on open source <br>🌱 I’m currently learning<br>⚡ Code-holic
 
+<div align="center">
+
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PrathamP2002) 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-patil-567a33200) 
+</div>
+<div align="center"><h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
+</h1></div>
+<hr>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshpatil2002&show_icons=true&theme=light&line_height=30&count_private=true" alt="Prathamesh's github stats"/> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshpatil2002&theme=light&hide_langs_below=1&layout=compact&card_width=400&langs_count=10" /> 
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshpatil2002&" alt="prathameshpatil2002" />  
+<div align="center"><h2> Technical Skils 💻 </h2> </div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nannapaneni-saikiran-89100017b/) 
