@@ -22,9 +22,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Saikiran8844'></p>
