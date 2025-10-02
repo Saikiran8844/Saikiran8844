@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>👋 Hey There! I'm Saikiran</h1>
+  <h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif"/> </br>
+  I'm Saikiran</h1>
   <p>Full Stack Developer | Open Source Enthusiast | Lifelong Learner</p>
 </div>
 
@@ -20,7 +21,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=About.me&logoColor=white)](https://nannpaneni-saikiran.vercel.app/)  
 [![Resume](https://img.shields.io/badge/Resume-4ABDF1?style=for-the-badge&logo=Adobe-Acrobat&logoColor=white)](https://nannpaneni-saikiran.vercel.app/resume.pdf)  
 </div>
-<div align="center"><h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
 </h1></div>
 <hr>
 
