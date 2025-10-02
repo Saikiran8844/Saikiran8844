@@ -38,6 +38,6 @@
 
 ---
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Saikiran8844'></p>
+<p align='center'>
   <img src='https://visitor-badge.laobi.icu/badge?page_id=Saikiran8844' alt='Visitor Badge'>
 </p>
