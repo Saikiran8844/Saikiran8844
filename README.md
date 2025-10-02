@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Hey There! I'm Saikiran</h1>
   <p>Full Stack Developer | Open Source Enthusiast | Lifelong Learner</p>
-  <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/>
 </div>
 
 ---
