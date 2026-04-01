@@ -1,40 +1,118 @@
 <div align="center">
-  <h1> Heyy There! <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif"/> </br>
+  <h1> Heyy There! 👋 </br>
   I'm Saikiran</h1>
-  <p>Full Stack Developer | Open Source Enthusiast | Lifelong Learner</p>
+  <p>Full Stack Engineer II | Cloud-Native Architect | AI-Driven Builder</p>
 </div>
 
 ---
 
 ## 💫 About Me
-🔭 I’m a **Full Stack Enthusiast** working on scalable and modern web applications.  
-👯 I’m looking to **collaborate on open source projects** and learn from the community.  
-🌱 I’m currently **learning advanced cloud-native architectures, AI integrations, and microservices**.  
-⚡ Passionate **Code-holic**, always exploring new technologies and pushing boundaries.  
+🔭 Full Stack Software Engineer II with **3+ years of experience** building scalable enterprise applications across frontend, backend, and cloud ecosystems. :contentReference[oaicite:0]{index=0}  
 
+🚀 Currently working on **cloud-native microservices, AI integrations, and enterprise-grade systems** at scale.  
+
+🤝 Open to **collaborating on impactful open-source and AI-driven projects**  
+
+🌱 Exploring deeper into **Generative AI, distributed systems, and platform engineering**  
+
+⚡ Strong believer in **automation-first development & performance-driven engineering**
 
 ---
+
+## 🧠 What I Actually Do (Beyond Buzzwords)
+- Build **high-throughput backend systems** (10K+ requests/day, <200ms latency)
+- Design **enterprise integrations** (SAP, Salesforce, MuleSoft)
+- Architect **cloud-native microservices on AWS & GCP**
+- Implement **secure authentication systems (OAuth2, SAML, JWT, Okta)**
+- Develop **AI-powered tools (LLM-based automation, test generation, DB migration)**
+
+---
+
 ## 🌐 Socials:
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nannapaneni-saikiran-89100017b) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=About.me&logoColor=white)](https://nannpaneni-saikiran.vercel.app/)  
 [![Resume](https://img.shields.io/badge/Resume-4ABDF1?style=for-the-badge&logo=Adobe-Acrobat&logoColor=white)](https://nannpaneni-saikiran.vercel.app/resume.pdf)  
+
 </div>
-</h1></div>
-<hr>
 
-
+---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saikiran8844&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saikiran8844&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiran8844&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🚀 Core Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### ⚙️ Backend & APIs
+![Microservices](https://img.shields.io/badge/microservices-%2300C7B7.svg?style=for-the-badge)
+![REST API](https://img.shields.io/badge/restapi-%23000000.svg?style=for-the-badge)
+![SOAP](https://img.shields.io/badge/soap-%23007396.svg?style=for-the-badge)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🔐 Security
+![OAuth2](https://img.shields.io/badge/oauth2-%23007ACC.svg?style=for-the-badge)
+![JWT](https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge)
+![SAML](https://img.shields.io/badge/saml-%23FF6F00.svg?style=for-the-badge)
+![Okta](https://img.shields.io/badge/okta-%23007DC1.svg?style=for-the-badge)
+
+### 🧠 AI & Automation
+![LiteLLM](https://img.shields.io/badge/litellm-%23000000.svg?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/generativeai-%23FF4081.svg?style=for-the-badge)
+
+### 🛠️ Tools & Ecosystem
+![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+# 🚀 Highlight Projects
+
+### 🤖 AI-Powered Engineering
+- **Jira BDD Automation Engine** → Converts user stories into Gherkin test cases using LLMs  
+- **Db Migrator CLI** → AI-based schema transformation tool  
+- **Jira AI Agents** → Automated tracking, reminders & code/test generation  
+
+### 🏢 Enterprise Systems
+- **API Connector Platform** → 10K+ requests/day, integrated SAP, Salesforce  
+- **Licensing Microservice** → Extensible enterprise licensing engine  
+- **Scheduled Processing Engine** → Kubernetes Cron-based automation  
+
+### 🌐 Full Stack Apps
+- **LMS Platform + Company Portal**
+- **Inventory + Shopify System**
+- **AI Chatbot for Enterprise Backoffice**
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Saikiran8844&theme=dracula&hide_border=false&include_all_commits=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saikiran8844&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiran8844&theme=dracula&hide_border=false&layout=compact)
+
+---
+
+### ✍️ Dev Philosophy
+> "Automate what is repeatable. Optimize what is scalable. Build what compounds."
 
 ---
 
