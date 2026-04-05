@@ -7,7 +7,7 @@
 ---
 
 ## 💫 About Me
-🔭 Full Stack Software Engineer II with **3+ years of experience** building scalable enterprise applications across frontend, backend, and cloud ecosystems. :contentReference[oaicite:0]{index=0}  
+🔭Software Engineer II with **3+ years of experience** building scalable enterprise applications across frontend, backend, and cloud ecosystems. :contentReference[oaicite:0]{index=0}  
 
 🚀 Currently working on **cloud-native microservices, AI integrations, and enterprise-grade systems** at scale.  
 
