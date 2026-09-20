@@ -58,12 +58,12 @@
 ```yaml
 ╭─────────────────────────────────────────────────────────────────────────────╮
 │ 🧑‍💻 Identity      : Saikiran Nannapaneni (Software Engineer II)             │
-│ 💼 Current Role   : Software Engineer II @ Thales (Platform Engineering)    │
-│ 📍 Location       : New Delhi, India 🇮🇳                                      │
-│ ⏳ Experience     : 3+ Years in Scalable Cloud Microservices & Web Apps      │
-│ 🌐 Freelance Hub  : High-Converting Shopify Platforms & Headless Next.js    │
-│ 🤖 AI Core        : ChatGPT, Claude 3.5, LiteLLM, Model Context Protocol    │
-│ ⚡ Philosophy     : "Automate the repetitive. Scale what compounds."         │
+│ 💼 Current Role   : Software Engineer II @ Thales (Professional Services)  │
+│ 📍 Location       : New Delhi, India 🇮🇳                                    │
+│ ⏳ Experience     : 3+ Years in Scalable Cloud Microservices & Web Apps    │
+│ 🌐 Freelance Hub  : High-Converting Shopify Platforms & Headless Next.js   │
+│ 🤖 AI Core        : ChatGPT, Claude , LiteLLM, Model Context Protocol      │
+│ ⚡ Philosophy     : "Automate the repetitive. Scale what compounds."       │
 ╰─────────────────────────────────────────────────────────────────────────────╯
 ```
 
