@@ -3,7 +3,7 @@
  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0a0e17,25:1e1b4b,50:311042,75:1e1b4b,100:0a0e17&height=210&section=header&text=Saikiran%20Nannapaneni&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20II%20%7C%20Cloud-Native%20Architect%20%7C%20AI%20and%20Shopify%20Builder&descAlignY=58&descSize=18&descColor=38bdf8" width="100%" alt="Saikiran Banner" />
 
-  <!-- Animated Glowing Divider -->
+  
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-beac-eb6c12ca0f10.gif" width="100%" height="3px" />
 
   <!-- Fast & Dynamic Typing Headline -->
